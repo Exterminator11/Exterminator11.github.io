@@ -1,0 +1,27 @@
+.center{
+    text-align: center;
+}
+.img-fluid{
+     width: 15%;
+     border-radius: 10px;
+}
+.font-weight-normal{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text-white{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+.card{
+    background-color: rgb(230, 113, 113);
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    cursor:pointer;
+    
+}
+.active{
+    margin-left: 5px;
+    margin-right: 5px;
+}

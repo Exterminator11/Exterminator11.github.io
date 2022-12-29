@@ -1,0 +1,12 @@
+th,tr,td{
+    color:orange;
+    border:2px solid white;
+    padding: 2px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:500;
+}
+body{
+    background-size: auto;
+}
