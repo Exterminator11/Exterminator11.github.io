@@ -20,7 +20,7 @@ function GetInfo(){
                         let name=data.name
                         let lat=data.lati
                         let long=data.lon
-                        return (<tr key={id}><td>{id}</td><td>{name}</td><td>{lat}</td><td>{long}</td></tr>)
+                        return (<tr><td>{id}</td><td>{name}</td><td>{lat}</td><td>{long}</td></tr>)
                     }
                 )
             }
